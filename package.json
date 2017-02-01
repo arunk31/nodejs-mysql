@@ -1,0 +1,17 @@
+{
+  "name": "mysqldb",
+  "version": "1.0.0",
+  "description": "demo nodejs and mysql db connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Arun K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  }
+}
